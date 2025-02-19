@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|c:\\users\\felip\\onedrive\\documentos\\projetos\\c# curso\\primeira-web-api\\apicatalogo\\apicatalogo\\migrations\\20250219000809_migracaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\migrations\\20250219000809_migracaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|c:\\users\\felip\\onedrive\\documentos\\projetos\\c# curso\\primeira-web-api\\apicatalogo\\apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|c:\\users\\felip\\onedrive\\documentos\\projetos\\c# curso\\primeira-web-api\\apicatalogo\\apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|c:\\users\\felip\\onedrive\\documentos\\projetos\\c# curso\\primeira-web-api\\apicatalogo\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|c:\\users\\felip\\onedrive\\documentos\\projetos\\c# curso\\primeira-web-api\\apicatalogo\\apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|c:\\users\\felip\\onedrive\\documentos\\projetos\\c# curso\\primeira-web-api\\apicatalogo\\apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|c:\\users\\felip\\onedrive\\documentos\\projetos\\c# curso\\primeira-web-api\\apicatalogo\\apicatalogo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1AC229-BE06-4FD3-BB44-51AE6B391ED1}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250219000809_MigracaoInicial.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Migrations\\20250219000809_MigracaoInicial.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Migrations\\20250219000809_MigracaoInicial.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Migrations\\20250219000809_MigracaoInicial.cs",
+              "RelativeToolTip": "APICatalogo\\Migrations\\20250219000809_MigracaoInicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:09:29.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
+              "RelativeToolTip": "APICatalogo\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:37:36.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Models\\Produto.cs",
+              "RelativeToolTip": "APICatalogo\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:37:30.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Program.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Program.cs",
+              "RelativeToolTip": "APICatalogo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:24:20.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\appsettings.json",
+              "RelativeDocumentMoniker": "APICatalogo\\appsettings.json",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\appsettings.json",
+              "RelativeToolTip": "APICatalogo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T22:45:58.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "APICatalogo\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:14:59.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\felip\\OneDrive\\Documentos\\Projetos\\C# Curso\\Primeira-Web-API\\APICatalogo\\APICatalogo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "APICatalogo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:14:58.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
